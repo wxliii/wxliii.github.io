@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I am a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof.[Lei Zhu](https://sites.google.com/site/indexlzhu/home).
-
 My research focuses on advancing **AIGC (AI-Generated Content)** technology through various generative paradigms (e.g., Diffusion Models, Auto-Regressive Models, VAR) for intelligent image generation.
 
 ## Education
