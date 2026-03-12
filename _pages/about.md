@@ -13,8 +13,8 @@ My research focuses on advancing **AIGC (AI-Generated Content)** technology thro
 ## Education
 
 - **PhD Student**, The Hong Kong University of Science and Technology (Guangzhou), Feb 2025 - Present
-- **M.E.** in Electronic and Information Engineering (Avg Score: 89.71), Tianjin University, Sep 2021 - Jun 2024
-- **B.E.** in Autonomous Systems (GPA: 3.69/4.0; rank 2/46) & Double degree of Finance, Beijing Jiaotong University, Sep 2017 - Jun 2021
+- **M.E.** in Electronic and Information Engineering, Tianjin University, Sep 2021 - Jun 2024
+- **B.E.** in Autonomous Systems & Double degree of Finance, Beijing Jiaotong University, Sep 2017 - Jun 2021
 
 ## Experience
 
