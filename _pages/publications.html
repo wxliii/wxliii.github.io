@@ -9,28 +9,84 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>First-author Publications</h2>
+<hr />
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul>
+<li>
+<b>PixelWizard: Towards Efficient High-Fidelity Video Generation at Ultra-Large Spatial Resolution</b>,<br>
+<u>Wenxue Li</u>, Jingjing Ren, Peng Zhang, Tian Ye, Daiguo Zhou, Jian Luan, Lei Zhu,<br>
+ICML 2026 (Submitted).
+</li>
+<br>
+<li>
+<b>GlassWizard: Harvesting Diffusion Priors for Glass Surface Detection</b>,<br>
+<u>Wenxue Li</u>, Tian Ye, Xinyu Xiong, Jinbin Bai, Feilong Tang, Guanbin Li, Lei Zhu,<br>
+ICCV 2025.
+</li>
+<br>
+<li>
+<b>Towards Realistic Semi-supervised Medical Image Classification</b>,<br>
+<u>Wenxue Li</u>, Lie Ju, Feilong Tang, Peng Xia, Ming Hu, Lei Zhu, Zongyuan Ge,<br>
+AAAI 2025.
+</li>
+<br>
+<li>
+<b>TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts</b>,<br>
+<u>Wenxue Li</u>, Xinyu Xiong, Lie Ju, Peng Xia, Zongyuan Ge,<br>
+MICCAI 2024.
+</li>
+<br>
+<li>
+<b>LACINet: A Lesion-Aware Contextual Interaction Network for Polyp Segmentation</b>,<br>
+<u>Wenxue Li</u>, Wei Lu, Jinghui Chu, Fugui Fan,<br>
+IEEE Transactions on Instrumentation and Measurement, 2023.
+</li>
+<br>
+<li>
+<b>HybridVPS: Hybrid-supervised Video Polyp Segmentation Under Low-Cost Labels</b>,<br>
+<u>Wenxue Li</u>, Xinyu Xiong, Siying Li, Fugui Fan,<br>
+IEEE Signal Processing Letters, 2023.
+</li>
+<br>
+<li>
+<b>Confidence-Guided Mask Learning for Semi-supervised Medical Image Segmentation</b>,<br>
+<u>Wenxue Li</u>, Wei Lu, Jinghui Chu, Qi Tian, Fugui Fan,<br>
+Computers in Biology and Medicine, 2023.
+</li>
+</ul>
 
+<h2>Co-author Publications</h2>
+<hr />
 
-
+<ul>
+<li>
+<b>Sam2-unet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation</b>,<br>
+Xinyu Xiong, Zihang Wu, Shuangyi Tan, <u>Wenxue Li</u>, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li,<br>
+ICCVW 2025.
+</li>
+<br>
+<li>
+<b>Detect Any Mirrors: Boosting Learning Reliability on Large-Scale Unlabeled Data with an Iterative Data Engine</b>,<br>
+Haohu Xing, Lihao Liu, Yijun Yang, Hongqiu Wang, Tian Ye, Sixiang Chen, <u>Wenxue Li</u>, Guang Liu, Lei Zhu,<br>
+CVPR 2025.
+</li>
+<br>
+<li>
+<b>Neighbor Does Matter: Density-Aware Contrastive Learning for Medical Semi-supervised Segmentation</b>,<br>
+Feilong Tang, Zhiyuan Xu, <u>Wenxue Li</u>, Peng Xia, Yuliang Zhong, Jingyang Su, Zongyuan Ge,<br>
+AAAI 2025.
+</li>
+<br>
+<li>
+<b>Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations</b>,<br>
+Peng Xia, Ming Hu, Feilong Tang, <u>Wenxue Li</u>, Weihao Zheng, Lie Ju, Pei Duan, Hua Yao, Zongyuan Ge,<br>
+MICCAI 2024.
+</li>
+<br>
+<li>
+<b>Mammo-SAM: Adapting Foundation Segment Anything Model for Automatic Breast Mass Segmentation in Whole Mammograms</b>,<br>
+Xinyu Xiong, Churan Wang, <u>Wenxue Li</u>, Guanbin Li,<br>
+MICCAIW 2023.
+</li>
+</ul>
