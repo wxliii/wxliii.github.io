@@ -23,7 +23,7 @@ repository               : "wxliii/wxliii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpeg"
   name             : "Wenxue Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at HKUST(GZ), focusing on AIGC and generative models"
