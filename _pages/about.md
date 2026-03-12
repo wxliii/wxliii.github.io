@@ -20,12 +20,10 @@ My research focuses on advancing **AIGC (AI-Generated Content)** technology thro
 ## Experience
 
 **MiLM Plus, Xiaomi Inc** - Research Intern, Sep 2025 - Present
-- Research Topic: Realistic Semi-supervised Learning
-- Research Topic: Text-prompted Medical Image Segmentation
+- Research Topic: High-resolution video generation and efficient diffusion models.
 
 **Monash University** - Research Assistant (Advised by A/Prof. Zongyuan Ge and Dr. Lie Ju), Sep 2023 - Apr 2024
-- Research Topic: Realistic Semi-supervised Learning
-- Research Topic: Text-prompted Medical Image Segmentation
+- Research Topic: Realistic Semi-supervised Learning, Text-prompted Medical Image Segmentation
 
 **Airdoc** - Algorithm Intern, Jun 2023 - Apr 2024
 - Project: A deep-learning system predicts tessellate incidence and progression using retinal photographs (Collaborate with Beijing Tongren Hospital)
