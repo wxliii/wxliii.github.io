@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Wenxue Li (李文雪)"
+title: "Wenxue (Wynn) Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from February 2025. Prior to this, I received my M.E. degree in Electronic and Information Engineering from [Tianjin University](http://www.tju.edu.cn/) in 2024, and my B.E. degree in Autonomous Systems (with a double degree in Finance) from [Beijing Jiaotong University](http://www.njtu.edu.cn/) in 2021.
-
-## Research Interest
+I am a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof.[Lei Zhu](https://sites.google.com/site/indexlzhu/home).
 
 My research focuses on advancing **AIGC (AI-Generated Content)** technology through various generative paradigms (e.g., Diffusion Models, Auto-Regressive Models, VAR) for intelligent image generation.
 
